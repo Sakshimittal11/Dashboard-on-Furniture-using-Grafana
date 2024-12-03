@@ -291,12 +291,14 @@ The total sales contributed by all hosts is 242, emphasizing the collective effo
 
 1. Seasonal Trends: Inventory and Promotional Activities
    
-  a.  Focus on Spring: With Spring showing the highest sales figures (139 units), it is essential to ensure adequate inventory of high-demand products like Chairs and 
-      Sofas during this season. Promotions and marketing campaigns should also be intensified to capitalize on the natural uptick in demand.
+    a. Focus on Spring: With Spring showing the highest sales figures (139 units), it is essential to ensure adequate 
+ inventory of high-demand products like Chairs and Sofas during this season. Promotions and marketing campaigns should 
+ also be intensified to capitalize on the natural uptick in demand.
       
-  b. Addressing Summer Slump: Sales in Summer (21 units) are notably low, indicating an opportunity to drive demand through innovative approaches. Consider launching 
-     summer-special offers, discounts, or bundled deals to attract customers. Additionally, focus on promoting lightweight, summer-friendly furniture or outdoor categories 
-     that may align with seasonal preferences.
+   b. Addressing Summer Slump: Sales in Summer (21 units) are notably low, indicating an opportunity to drive demand 
+ through innovative approaches. Consider launching summer-special offers, discounts, or bundled deals to attract 
+ customers. Additionally, focus on promoting lightweight, summer-friendly furniture or outdoor categories that may align 
+ with seasonal preferences.
 
 2. Channel Optimization: Retail vs. Online
    
